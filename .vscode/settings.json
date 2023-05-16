@@ -1,0 +1,13 @@
+{
+    "deno.enablePaths": [
+        "lib/edge",
+        "netlify/edge-functions",
+        "config.edge.ts"
+    ],
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+    }
+}

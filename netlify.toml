@@ -1,0 +1,8 @@
+[build]
+publish = "dist/static"
+command = "npm run build"
+[dev]
+command = "npm run dev"
+
+[template.environment]
+OPENAI_API_KEY = "your OpenAI API key"
